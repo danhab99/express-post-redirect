@@ -1,0 +1,21 @@
+{
+	"name": "express-post-redirect",
+	"version": "1.0.0",
+	"description": "Express middleware for server side redirection post POST request",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/danhab99/express-post-redirect.git"
+	},
+	"keywords": [
+		"express",
+		"post",
+		"redirect"
+	],
+	"author": "danhab99",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/danhab99/express-post-redirect/issues"
+	},
+	"homepage": "https://github.com/danhab99/express-post-redirect#readme",
+}
